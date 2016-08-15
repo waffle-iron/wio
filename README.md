@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/irchelp/wio.png?label=ready&title=Ready)](https://waffle.io/irchelp/wio)
 $Id$
 
 Welcome WIO Editors!
